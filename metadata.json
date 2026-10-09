@@ -1,0 +1,6 @@
+{
+  "name": "Delhi Public Academy",
+  "description": "Official promotional school website featuring academic programs, facilities, events, and an interactive online inquiry management dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
